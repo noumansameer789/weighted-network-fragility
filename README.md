@@ -1,5 +1,7 @@
 # Brokerage, communities and attack fragility
 
+> **Provenance and scope.** Coursework portfolio reconstruction, 2026. Included: participation and connectivity helpers plus tests on small known graphs. The original weighted edge list, null simulations and assessed report are not included, so the reported 77-node experiment cannot be rerun here.
+
 Weighted-network analysis separating popularity, brokerage, cross-community
 participation and attack consequence instead of treating them as one concept.
 
@@ -21,3 +23,8 @@ consequence on a known graph. The original weighted edge list is not committed.
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+
+## Licence
+
+Original material is available for portfolio evaluation under the [evaluation-only licence](LICENSE). Third-party data, libraries and original assessment materials retain their own terms.
